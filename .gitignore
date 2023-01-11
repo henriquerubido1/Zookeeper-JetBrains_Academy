@@ -1,0 +1,51 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Zookeeper/*
+!/Zookeeper/task/
+/Zookeeper/task/*
+!/Zookeeper/task/src/
+!/Zookeeper/task/build.gradle
+!/Zookeeper/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Boolean and logical operations/Invitations and gifts/out/
+/Topics/Boolean and logical operations/Invitations and gifts/out/production/classes/
+/Topics/Characters/Previous character/out/
+/Topics/Characters/Previous character/out/production/classes/
+/Topics/Invoking functions/Invoking functions/out/
+/Topics/Invoking functions/Invoking functions/out/production/classes/
+/Topics/Relational operators/Boys in the sport class/out/
+/Topics/Relational operators/Boys in the sport class/out/production/classes/
+/Topics/Relational operators/Groundhogs at the party/out/
+/Topics/Relational operators/Groundhogs at the party/out/production/classes/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/production/classes/
+/Topics/Standard input/Four numbers/out/
+/Topics/Standard input/Four numbers/out/production/classes/
+/Topics/Standard input/Successful reading/out/
+/Topics/Standard input/Successful reading/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
+/Topics/String templates/Repetitions and templates/out/
+/Topics/String templates/Repetitions and templates/out/production/classes/
+/Topics/String templates/String and its Int/out/
+/Topics/String templates/String and its Int/out/production/classes/
+/Topics/Type conversion/Simple converter/out/
+/Topics/Type conversion/Simple converter/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
